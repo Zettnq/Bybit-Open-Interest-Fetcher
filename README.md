@@ -1,0 +1,1 @@
+Automated data collection pipeline for fetching historical Open Interest (OI) data from Bybit V5 API 
